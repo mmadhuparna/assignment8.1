@@ -1,0 +1,7 @@
+/*removing unnecessary space from body*/
+
+body h1 p{
+    margin: 0 auto;
+    padding: 0;
+    color: #000;
+}
